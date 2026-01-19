@@ -1,5 +1,5 @@
 import React from 'react'
-import choose from "../assets/Choose.png"
+import Choosephoto from "../assets/choose_photo.png"
 import point from "../assets/point.png"
 
 const Choose = () => {
@@ -34,7 +34,7 @@ const Choose = () => {
                     <button className='text-white bg-[#684DF4] rounded-xl px-8 py-3 mt-15 text-xl'><a href="#">Learn more</a><span className='pl-3'>➜</span> </button>
                 </div>
                 <div>
-                    <img src={choose} alt="" className='mx-10 max-sm:mx-0'/>
+                    <img src={Choosephoto} alt="" className='mx-10 max-sm:mx-0'/>
                 </div>
 
             </div>
